@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**janghun-selvasai/janghun-selvasai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 개발자 장훈입니다. / Hello! I'm Janghun, a developer.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on web development and software engineering projects
+- 🌱 I'm currently learning modern web technologies, cloud computing, and best practices in software development
+- 👯 I'm looking to collaborate on open source projects and innovative web applications
+- 🤔 I'm looking for help with advanced system design and architecture patterns
+- 💬 Ask me about web development, programming, or technology in general
+- 📫 How to reach me: Feel free to connect through GitHub
+- ⚡ Fun fact: I enjoy solving coding challenges and exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+I work with various technologies and am always eager to learn new ones. Welcome to my GitHub profile!
