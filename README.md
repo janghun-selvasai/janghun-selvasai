@@ -38,7 +38,6 @@ func (jh JangHun) GetProfile() map[string]interface{} {
             "aiFrameworks": []string{"TensorFlow", "PyTorch"},
             "backend": []string{"Go", "C", "C#", "Java"},
             "frontend": []string{"JavaScript", "HTML/CSS"},
-            "databases": []string{"SQL Server", "PostgreSQL", "MongoDB"},
             "cloud": []string{"AWS", "Infrastructure Design"},
             "devTools": []string{"Visual Studio Code", "Visual Studio", "STS(Eclipse)"},
             "versionControl": []string{"SVN", "GitHub"},
