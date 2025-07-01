@@ -2,12 +2,7 @@
   
 # 👋 안녕하세요! 저는 장훈입니다
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&### ✨ Thanks for visiting! Let's innovate TTS technology together! ✨
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-**🔊 SELVAS AI에서 10년간 쌓아온 TTS 전문성으로 음성 기술의 미래를 만들어갑니다!**
-**💖 Show some love by starring my repositories if you find them helpful!**=%F0%9F%94%8A+TTS+Solutions+Architect;%F0%9F%A4%96+AI+Engineer+%40+SELVAS+AI;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%A1+AI+Automation+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=%F0%9F%94%8A+TTS+Solutions+Architect;%F0%9F%A4%96+AI+Engineer+%40+SELVAS+AI;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%A1+AI+Automation+Expert" alt="Typing SVG" />
 
 ### 🔥 TTS 전문가 | AI 솔루션 아키텍트 | 10년 차 개발자 | SELVAS AI Inc.
 
