@@ -147,6 +147,7 @@ func main() {
 - 🌐 **확장 가능한 TTS 솔루션 아키텍처 설계**
 - 📈 **AI 자동화 도구 도입으로 팀 생산성 향상**
 
+## 📈 Activity Graph
 
 <div align="center">
   
