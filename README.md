@@ -60,7 +60,7 @@ func (jh JangHun) GetProfile() map[string]interface{} {
 
 func main() {
     developer := JangHun{}
-    fmt.Println("Welcome to my profile! �")
+    fmt.Println("Welcome to my profile! 👋")
 }
 ```
 
@@ -131,7 +131,7 @@ func main() {
 
 ## 🏢 Professional Experience
 
-### � SELVAS AI Inc. - TTS Solutions Architect & Developer
+### 🏢 SELVAS AI Inc. - TTS Solutions Architect & Developer
 **📅 2015 ~ Present (10+ Years)**
 
 #### 🎯 Core Responsibilities
@@ -162,8 +162,6 @@ func main() {
 
 </div>
 
-## � Activity Graph
-
 <div align="center">
 
 ## 📫 Connect With Me
@@ -188,7 +186,7 @@ func main() {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**� Show some love by starring my repositories if you find them helpful!**
+**⭐ Show some love by starring my repositories if you find them helpful!**
 
 </div><!--
 **janghun-selvasai/janghun-selvasai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
